@@ -1,4 +1,4 @@
-# Hello, I'm [Christopher R.]! 👋
+# Hello, I'm Christopher R.! 👋
 
 ## 👨‍💻 About Me:
 I'm a passionate developer with experience in building bots, APIs, and full-stack applications. I love to work on open-source projects and collaborate with other developers.
