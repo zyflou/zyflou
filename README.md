@@ -1,9 +1,11 @@
 # Hello, I'm Christopher R.! 👋
 
+[![Discord Bots](https://top.gg/api/widget/upvotes/1278799712648171552.svg)(https://top.gg/bot/1278799712648171552)]
+
 ## 👨‍💻 About Me:
 I'm a passionate developer with experience in building bots, APIs, and full-stack applications. I love to work on open-source projects and collaborate with other developers.
 
-- 🔭 I’m currently working on: [![Discord Bots](https://top.gg/api/widget/upvotes/1278799712648171552.svg)(https://top.gg/bot/1278799712648171552)
+- 🔭 I’m currently working on: **[Anna Chan~](https://top.gg/bot/1278799712648171552)
 - 🌱 I’m currently learning: Machine Learning, DevOps
 - 💬 Ask me about: Node.js, Discord Bots
 - ⚡ Fun fact: I love contributing to open source!
