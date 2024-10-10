@@ -24,4 +24,4 @@ I'm a passionate developer with experience in building bots, APIs, and full-stac
 
 ## 💼 Projects:
 - [spoti-rec](https://www.npmjs.com/package/spoti-rec) - A recommendation system using Spotify
-- [discord.js-v4-handler](https://github.com/zyflou/discord.js-v14-handler)
+- [discord.js-v4-handler](https://github.com/zyflou/discord.js-v14-handler) - A simple handler discord.js v14
