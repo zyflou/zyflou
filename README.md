@@ -1,4 +1,4 @@
-# Hello, I'm Christopher R.! 👋
+# Hello, I'm Farel Fedrian! 👋
 
 [![Discord Bots](https://top.gg/api/widget/upvotes/1278799712648171552.svg)](https://top.gg/bot/1278799712648171552/vote)
 
